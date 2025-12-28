@@ -16,11 +16,11 @@ Education
 
 Work experience
 ======
-* Feb 2023 — Present: Academic Pages Collaborator
+* Feb 2023 — Present: Engineer (Digital SOC Integration)
   * Samsung Electronics, System LSI Business
   * Duties includes: Implements RF built-in self test and Develops peripheral digital circuit for MCU
   * 
-* Jan 2022: Academic Pages Collaborator
+* Jan 2022: Engineering Intern
   * Samsung Electronics, System LSI Business
   * Duties includes: Antenna Design
     
