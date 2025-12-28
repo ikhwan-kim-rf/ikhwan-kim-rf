@@ -7,7 +7,7 @@ excerpt: 'This paper presents that dielectric constant and loss tangent can be o
 date: 2022-10-31
 venue: '2022 International Symposium on Antennas and Propagation (ISAP)'
 paperurl: '10.1109/ISAP53582.2022.9998792'
-citation: 'S. H. Han, &bold;I. Kim,&bold; J. -I. Oh, H. -W. Lee, S. -J. Kim and J. -W. Yu, &quot;An Accurate and Simple Method for Measurement of RF Characterization in Thin Substrate,&quot; 2022 International Symposium on Antennas and Propagation (ISAP), Sydney, Australia, 2022, pp. 549-550, doi: 10.1109/ISAP53582.2022.9998792.'
+citation: 'S. H. Han, **I. Kim,** J. -I. Oh, H. -W. Lee, S. -J. Kim and J. -W. Yu, "An Accurate and Simple Method for Measurement of RF Characterization in Thin Substrate," 2022 International Symposium on Antennas and Propagation (ISAP), Sydney, Australia, 2022, pp. 549–550, doi: 10.1109/ISAP53582.2022.9998792.'
 ---
 
 Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
