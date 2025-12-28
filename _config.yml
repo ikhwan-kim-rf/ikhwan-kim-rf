@@ -28,9 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  #employer         : "Red Brick University"
+  #uri              : # URL
+  email            : "ikhwan.kim.rf@gmail.com" 
 
   # Academic websites
   academia         : # URL
