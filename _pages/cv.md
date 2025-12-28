@@ -22,7 +22,7 @@ Work experience
     
 * Jan 2022: Engineering Intern
   * Samsung Electronics, System LSI Business
-  * Duties includes: Antenna Design
+  * Duties includes: Designs Antenna
     
 Skills
 ======
