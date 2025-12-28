@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "An Accurate and Simple Method for Measurement of RF Characterization in Thin Substrate"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/An Accurate and Simple Method for Measurement of RF Characterization in Thin Substrate
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
