@@ -3,7 +3,7 @@ title: "An Accurate and Simple Method for Measurement of RF Characterization in 
 collection: publications
 category: conferences
 permalink: /publication/An_Accurate_and_Simple_Method_for_Measurement_of_RF_Characterization_in_Thin_Substrate
-excerpt: 'This paper presents that dielectric constant and loss tangent can be obtained using only two different microstrip lines in a measurement environment despite the thin substrate. It is impossible to calculate the conductor loss and radiation loss exactly only using theory. Therefore, in this paper, using 3-D electromagnetic solver CST Microwave Studio (MWS), the conductor loss was obtained and radiation loss was neglected. As result, in this paper, the dielectric constant has errors of 0.53% and 1.46%, in simulation and measurement each.'
+excerpt: 'This paper presents that dielectric constant and loss tangent can be obtained using only two different microstrip lines in a measurement environment despite the thin substrate.'
 date: 2022-10-31
 venue: '2022 International Symposium on Antennas and Propagation (ISAP)'
 paperurl: '10.1109/ISAP53582.2022.9998792'
